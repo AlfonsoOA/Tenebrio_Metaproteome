@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: >-
+  Tenebrio_Metaproteome: analysis code for the metaproteomic
+  study of a Tenebrio molitor gut-derived bacterial consortium
+  grown on polyethylene
+message: >-
+  If you use this software, please cite both the software and
+  the associated publication.
+type: software
+authors:
+  - given-names: Alfonso
+    family-names: Olaya-Abril
+    orcid: 'https://orcid.org/0000-0002-8961-1099'
+    affiliation: >-
+      Department of Biochemistry and Molecular Biology,
+      Universidad de Córdoba, Spain
+    email: b22olaba@uco.es
+repository-code: 'https://github.com/AlfonsoOA/Tenebrio_Metaproteome'
+abstract: >-
+  R and shell code implementing the quantitative metaproteomic
+  analysis and the functional annotation workflow reported in the
+  associated publication, covering quality control, normalisation,
+  missing-value handling, differential abundance analysis,
+  co-expression analysis, functional enrichment and annotation with
+  EggNOG-mapper and InterProScan.
+keywords:
+  - metaproteomics
+  - proteomics
+  - plastic biodegradation
+  - polyethylene
+  - Tenebrio molitor
+  - microbial consortium
+  - functional annotation
+license: MIT

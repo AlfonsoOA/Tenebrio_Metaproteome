@@ -1,0 +1,23 @@
+{
+  "title": "Tenebrio_Metaproteome: analysis code for the metaproteomic study of a Tenebrio molitor gut-derived bacterial consortium grown on polyethylene",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Olaya-Abril, Alfonso",
+      "orcid": "0000-0002-8961-1099",
+      "affiliation": "Department of Biochemistry and Molecular Biology, Universidad de Córdoba, Spain"
+    }
+  ],
+  "description": "R and shell code implementing the quantitative metaproteomic analysis and the functional annotation workflow reported in the associated publication: quality control and filtering, normalisation, missing-value handling, differential abundance analysis, co-expression analysis, biological-relevance filtering, over-representation and gene-set enrichment analysis, random-forest validation, and functional annotation with EggNOG-mapper and InterProScan. This is the specific analysis applied to the published dataset, not a general-purpose tool.",
+  "keywords": [
+    "metaproteomics",
+    "proteomics",
+    "plastic biodegradation",
+    "polyethylene",
+    "Tenebrio molitor",
+    "microbial consortium",
+    "functional annotation"
+  ],
+  "access_right": "open"
+}

@@ -1,0 +1,25 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Analysis outputs
+*_Results/
+FASTA_Annotations/
+*.log
+*_Analysis_Log.txt
+
+# Data and large files (deposited in PRIDE, not in the repository)
+*.raw
+*.mzML
+*.fasta
+*.faa
+*.tsv
+*.emapper.annotations
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
